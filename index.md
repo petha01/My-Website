@@ -1,5 +1,12 @@
 # Pethaperumal Natarajan
 ## Fast Travel
+- [Education](#education)
+- [Past Experience](#past-experiences)
+### [Projects](#projects)
+### [Skills](#skills)
+[Contact Info](#contact-info)
+[Links](#links)
+
 ## Picture
 <img src="./Me.jpg" alt="My picture" width="200"/>
 
@@ -36,6 +43,11 @@
 - CSV File Generator
   - Made a CSV file generator that creates a CSV file with required type of data which can used for testing.
   - [Link](https://github.com/petha01/CSVFile)
+
+## Skills
+- **Programming Languages:** Python, Java, C++, C, MATLAB, ARM, Shell Scripting, HTML, CSS, Javascript, TypeScript, SystemVerilog, Markdown
+- **Frameworks/Libraries:** JUnit, React, Jest, Eclipse, Jupyter
+- **Technologies:** GitHub, LaTeX, Microsoft Office, Adobe Illustrator/Photoshop
 
 ## Contact Info
 - Phone: +1 (619) 495 2825
