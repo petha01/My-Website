@@ -1,11 +1,11 @@
 # Pethaperumal Natarajan
 ## Fast Travel
-- [Education](#education)
-- [Past Experience](#past-experiences)
-### [Projects](#projects)
-### [Skills](#skills)
-[Contact Info](#contact-info)
-[Links](#links)
+  - [Education](#education)
+  - [Past Experience](#past-experiences)
+  - [Projects](#projects)
+  - [Skills](#skills)
+  - [Contact Info](#contact-info)
+  - [Links](#links)
 
 ## Picture
 <img src="./Me.jpg" alt="My picture" width="200"/>
