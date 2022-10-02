@@ -1,5 +1,8 @@
 # Pethaperumal Natarajan
 ## Fast Travel
+## Picture
+<img src="./Me.jpg" alt="My picture" width="200"/>
+
 ## Education
 - University of California San Diego
   - Major: Computer Engineering
@@ -7,7 +10,7 @@
   - GPA: 3.792
 - Cambridge A-Levels
   - Taylor's College Lakeside Campus, Malaysia
-  - Grade: 4A<sup>*</sup> 1A
+  - Grade: 3A<sup>*</sup> 1A
 
 ## Past Experiences
 - Dassault Systemes
@@ -24,7 +27,16 @@
   - About: Luxembourg Expat is a startup company that is developing a social website that allows its users to meet new people, advertise their company/product/real estate, and request for help from the community.
   - React Javascript: I created an interactive webpage using React in NodeJS environment
   - Unit Testing: I used Jest to create unit tests on the website to make sure the website’s features work as required upon making new changes to the website.
+
 ## Projects
+- Connect 4 AI
+  - Made a Connect 4 AI that was capable of executing simple traps and beating new players for a class project in C. Student’s AI’s were played against each other to find the best one and my AI did the third best in class of 100 people.
+- Signal Generator
+  - Made a signal generator that was able to create different types of signals, shift the properties of signal and use envelopes to make distinct sounds. Collaborated with a group using GitHub to make the program. My part in this project shifting the frequency of the input signal in the frequency domain.
+- CSV File Generator
+  - Made a CSV file generator that creates a CSV file with required type of data which can used for testing.
+  - [Link](https://github.com/petha01/CSVFile)
+
 ## Contact Info
 - Phone: +1 (619) 495 2825
 - Email: nk.petha@gmail.com
