@@ -49,8 +49,8 @@
   - [Link](https://github.com/petha01/CSVFile)
 
 ## Skills
-- **Programming Languages:** Python, Java, C++, C, MATLAB, ARM, Shell Scripting, HTML, CSS, Javascript, TypeScript, SystemVerilog, Markdown
-- **Frameworks/Libraries:** JUnit, React, Jest, Eclipse, Jupyter
+- **Programming Languages:** Python, Java, C++, C, MATLAB, ARM, Shell Scripting, HTML, CSS, Javascript, TypeScript, SystemVerilog, Markdown, yml/yaml
+- **Frameworks/Libraries:** JUnit, React, Jest, Puppeteer, Eclipse, Jupyter
 - **Technologies:** GitHub, LaTeX, Microsoft Office, Adobe Illustrator/Photoshop
 
 ## Contact Info
