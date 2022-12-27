@@ -36,6 +36,10 @@
   - Unit Testing: I used Jest to create unit tests on the website to make sure the website’s features work as required upon making new changes to the website.
 
 ## Projects
+- Where To Eat:
+  - Class project for CSE110 (Software Engineering). Created a web application that allows user to create a list of favorite restaurants and allows users to compare their list with other user to pick mutual favorites. Lead the front-end development of the project as the team designer. Set up the CI/CD pipeline for test automation. Created a priority queue class for sorting mechanisms. Created E2E tests for the web application using Jest and Puppeteer.
+  - https://wheretwoeat.netlify.app/
+  - https://github.com/cse110-fall22-group37/cse110-fall22-group37
 - Connect 4 AI
   - Made a Connect 4 AI that was capable of executing simple traps and beating new players for a class project in C. Student’s AI’s were played against each other to find the best one and my AI did the third best in class of 100 people.
 - Signal Generator
