@@ -8,7 +8,7 @@
   - [Links](#links)
 
 ## Picture
-<img src="./Me.jpg" alt="My picture" width="200"/>
+<img src="./IMG_5059.JPG" alt="My picture" width="200"/>
 
 ## Education
 - University of California San Diego
