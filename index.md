@@ -59,6 +59,6 @@
   
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/pethaperumal-natarajan/)
-- [GitHub](https://www.linkedin.com/in/pethaperumal-natarajan/)
+- [GitHub](https://github.com/petha01)
 
 [Back to the top](#pethaperumal-natarajan)
