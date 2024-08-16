@@ -67,6 +67,7 @@ used to speed up radio boot up speed.
   - SystemVerilog, Verilator
   - Designed and implemented 4 optimizations to a baseline CPU to improve CPI. Implemented perceptron branch prediction, stream buffer, value prediction and cache set dueling.
   - chieved overall speed up of 1.03 for different types of programs.
+  - [Link](https://github.com/achen200/optimized-mips-processor)
 - NMAPORE Hardware Accelerator
   - SystemVerilog, Design Compiler, DesignWare
   - Created RTL for NMAPORE, a hardware accelerator for genome sequencing which uses kd-tree to to store genomic information. Used DesignWare Floating Point IPs to handle floating point operations.
@@ -76,11 +77,13 @@ used to speed up radio boot up speed.
   - Designed and created microprocessor ISA and RTL that is able to run 3 programs: encode, decode, find patterns.
   - Created a python script that compiles assembly code to machine code specified by the ISA.
   - Analyzed waveforms to debug RTL using ModelSim and measured delay, power and area using Quartus Prime.
+  - [Link](https://github.com/petha01/CSE141L_Project)
 - Autonomous Vehicle
   - Python, ROS2, OpenCV, DepthAI, PyTorch
   - Built a self driving car that is capable of using camera, LIDAR and GNSS to navigate through a track.
   - Trained car to navigate through track using a deep learning model from camera images using PyTorch.
   - Used template matching and DepthAI for image recognition that allowed the car to detect signs, humans, lanes follow lane and switch lanes.
+  - [Link](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-2)
 - Where To Eat:
   - Class project for CSE110 (Software Engineering). Created a web application that allows user to create a list of favorite restaurants and allows users to compare their list with other user to pick mutual favorites. Lead the front-end development of the project as the team designer. Set up the CI/CD pipeline for test automation. Created a priority queue class for sorting mechanisms. Created E2E tests for the web application using Jest and Puppeteer.
   - https://wheretwoeat.netlify.app/
