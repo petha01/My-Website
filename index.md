@@ -102,7 +102,7 @@ used to speed up radio boot up speed.
 - **Programming Languages:** Python, Java, C++, C, MATLAB, ARM, Shell Scripting, HTML, CSS, Javascript, TypeScript, SystemVerilog/Verilog, Markdown, yml/yaml, TCL, Perl
 - **Frameworks/Libraries:** JUnit, React, Jest, Puppeteer, Eclipse, Jupyter, Node.js, FastAPI, MQTT, Docker, SKlearn, PyTorch, OpenCV, DepthAI
 - **Technologies:** Design Compiler, Questa/ModelSim, Cadence Virtuoso, Quartus Prime, PSpice, Git, LaTeX, Microsoft Office, Adobe Illustrator/Photoshop
-- **Courseworks** Digital Design, Computer Architecture, CPU Optimizations, RTL Design/Synthesis/Simulation, VLSI, GPU Programming, Parallel Programming, Operating Systems, Operating Systems, Product Engineering, HTTP Protocols, Recommender Systems, Computer Vision, Autonomous Vehicles
+- **Courseworks:** Digital Design, Computer Architecture, CPU Optimizations, RTL Design/Synthesis/Simulation, VLSI, GPU Programming, Parallel Programming, Operating Systems, Operating Systems, Product Engineering, HTTP Protocols, Recommender Systems, Computer Vision, Autonomous Vehicles
 
 ## Contact Info
 - Email: nk.petha@gmail.com
