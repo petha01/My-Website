@@ -66,7 +66,7 @@ used to speed up radio boot up speed.
 - Advanced CPU Optimization Project
   - SystemVerilog, Verilator
   - Designed and implemented 4 optimizations to a baseline CPU to improve CPI. Implemented perceptron branch prediction, stream buffer, value prediction and cache set dueling.
-  - chieved overall speed up of 1.03 for different types of programs.
+  - chieved overall speed up of 1.3 for different types of programs.
   - [Link](https://github.com/achen200/optimized-mips-processor)
 - NMAPORE Hardware Accelerator
   - SystemVerilog, Design Compiler, DesignWare
