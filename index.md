@@ -16,6 +16,7 @@
   - Graduation Year: 2025
 - University of California San Diego
   - Major: BS Computer Engineering
+  - GPA: 3.752
   - Graduation Year: 2024
 - Cambridge A-Levels
   - Taylor's College Lakeside Campus, Malaysia
