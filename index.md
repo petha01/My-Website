@@ -23,7 +23,13 @@
   - Grade: 3A<sup>*</sup> 1A
 
 ## Past Experiences
-- Artificial Intelligence Intern
+- Motorola Solutions
+  - Dec. 2024 – June 2025
+  - Position: Embedded Software Engineer CO-OP
+  - Built a tool that connects to a camera and is able to fully control the camera. Wrote scripts that allowed manufacturing, customer service, testers and developers to operate and debug almost every aspect of the camera easily without needing developer knowledge.
+  - Configured Jenkins build jobs to automatically build and deploy the tool.
+  - Integrated a feature into camera’s android OS that uses bluetooth to detect holster and automatically start recording for customer feature request.
+- Ligron Bio
   - July 2024 - Sept 2024
   - Position: Aritificial Intelligence Engineer
   - Investigated different clustering models like KMeans and Hierarchical Clustering to find similarites between molecular glues which can then be used to find similarities with unknown molecules and discover molecular glues.
@@ -55,6 +61,15 @@ used to speed up radio boot up speed.
   - Unit Testing: I used Jest to create unit tests on the website to make sure the website’s features work as required upon making new changes to the website.
 
 ## Projects
+- Dual Core AI Accelerator Microprocessor
+  - Verilog, Iverilog, Design Compiler, Innovus
+  - Designed a weight 2D-systolic array accelerator with configurable dimensions.
+  - Performed Hierarchical synthesis and placement and routing with Design Compiler and Innovus.
+  - Created a testbench that loads SRAM correctly and runs verifies the output of accelerator.
+  - Implemented clock gating to reduce power and multi-cycle path to remove timing violations in heavy logic paths.
+- Pioneer HDnn Research
+  - Designed RTL multiple baseline hyperdimensional neural network and the novel model presented.
+  - Gathered hardware results for publication using Design Compiler and PCACTI.
 - MyAdvantage Screen:
   - Python,  FastAPI, HTTP, HTML/JavaScript/CSS, Docker, RaspberryPi 
   - Created a screen that displays ads and uses geolocation to display personalized ads if the user is nearby.
