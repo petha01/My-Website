@@ -26,9 +26,8 @@
 - Motorola Solutions
   - Dec. 2024 – June 2025
   - Position: Embedded Software Engineer CO-OP
-  - Built a tool that connects to a camera and is able to fully control the camera. Wrote scripts that allowed manufacturing, customer service, testers and developers to operate and debug almost every aspect of the camera easily without needing developer knowledge.
-  - Configured Jenkins build jobs to automatically build and deploy the tool.
-  - Integrated a feature into camera’s android OS that uses bluetooth to detect holster and automatically start recording for customer feature request.
+  - Developed a versatile camera control tool with full device integration, enabling manufacturing, QA, customer service, and developers to operate and debug the camera without requiring technical expertise. Configured Jenkins build jobs to automatically build and deploy the tool.
+  - Integrated a feature into camera's android OS that uses bluetooth to detect when weapon is removed from holster to automatically start recording.
 - Ligron Bio
   - July 2024 - Sept 2024
   - Position: Aritificial Intelligence Engineer
